@@ -2,7 +2,7 @@
 
 **Electronics Engineering M.Sc. Candidate | Hardware & RF Designer**
 
-Electronics Engineering M.Sc. candidate with a strong focus on hands-on hardware design. My expertise spans from RF/Microwave and CMOS IC design to embedded systems and power electronics. I am passionate about driving projects from theoretical schematics down to physical validation on the test bench.
+Electronics Engineering M.Sc. candidate with a strong focus on hands-on hardware design. My expertise spans from RF/Microwave and CMOS IC design to embedded systems and PCB design. I am passionate about driving projects from theoretical schematics down to physical validation on the test bench.
 
 📄 [Download Technical Portfolio (PDF)](#) | 💼 [LinkedIn Profile](https://www.linkedin.com/in/andrea-lanzolla-68804b221/)
 
