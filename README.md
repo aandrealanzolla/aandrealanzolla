@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm [Tuo Nome Cognome] 👋
 
-<!--
-**aandrealanzolla/aandrealanzolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronics Engineering M.Sc. Candidate | Hardware & RF Designer**
 
-Here are some ideas to get you started:
+Electronics Engineering M.Sc. candidate with a strong focus on hands-on hardware design. My expertise spans from RF/Microwave and CMOS IC design to embedded systems and power electronics. I am passionate about driving projects from theoretical schematics down to physical validation on the test bench.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Download Technical Portfolio (PDF)](#) | 💼 [LinkedIn Profile](https://www.linkedin.com/in/andrea-lanzolla-68804b221/)
+
+---
+
+### 🛠️ Featured Projects
+
+*   🏍️ **[Custom DC-CDI ECU for Vintage Motorcycles](https://github.com/aandrealanzolla/DC-CDI-Honda-CX500)**
+    *4-layer PCB design replacing an AC-CDI system. Features a boost converter for rapid capacitor charging and C/C++ bare-metal firmware for real-time ignition advance mapping.*
+
+*   📡 **[4x4 Butler Matrix - RF Design](https://github.com/tuonome/nome-repo-matrice)**
+    *Synthesis, microstrip routing, and experimental validation (via Vector Network Analyzer) of a 4x4 Butler Matrix for antenna array beamforming. (B.Sc. Thesis)*
+
+*   🌐 **[LTE-M Tracker & Custom Antenna](https://github.com/tuonome/nome-repo-iot)**
+    *Development of an LTE-M tracker for an IoT university exam. Currently a WIP, with the main focus on designing a custom antenna tailored to fit the physical constraints of the board's enclosure.*
+
+---
+
+### 💻 Technical Stack
+*   **EDA & Hardware Design:** Altium Designer, KiCad, Cadence Virtuoso, ADS (Advanced Design System), CST Microwave Studio
+*   **Test & Measurement:** VNA, Oscilloscope, SMD soldering and rework, Hardware Debugging
+*   **Software & Firmware:** C/C++ (STM32), Python, MATLAB
