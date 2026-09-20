@@ -13,10 +13,10 @@ Electronics Engineering M.Sc. candidate with a strong focus on hands-on hardware
 *   🏍️ **[Custom DC-CDI ECU for Vintage Motorcycles](https://github.com/aandrealanzolla/DC-CDI-Honda-CX500)**
     *4-layer PCB design replacing an AC-CDI system. Features a boost converter for rapid capacitor charging and C/C++ bare-metal firmware for real-time ignition advance mapping.*
 
-*   📡 **[4x4 Butler Matrix - RF Design](https://github.com/tuonome/nome-repo-matrice)**
+*   📡 **[4x4 Butler Matrix - RF Design](https://github.com/aandrealanzolla/butler-matrix)**
     *Synthesis, microstrip routing, and experimental validation (via Vector Network Analyzer) of a 4x4 Butler Matrix for antenna array beamforming. (B.Sc. Thesis)*
 
-*   🌐 **[LTE-M Tracker & Custom Antenna](https://github.com/tuonome/nome-repo-iot)**
+*   🌐 **[LTE-M Tracker & Custom Antenna - work in progress](#)**
     *Development of an LTE-M tracker for an IoT university exam. Currently a WIP, with the main focus on designing a custom antenna tailored to fit the physical constraints of the board's enclosure.*
 
 ---
