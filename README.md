@@ -1,4 +1,4 @@
-# Hi, I'm [Tuo Nome Cognome] 👋
+# Andrea Lanzolla 👋
 
 **Electronics Engineering M.Sc. Candidate | Hardware & RF Designer**
 
