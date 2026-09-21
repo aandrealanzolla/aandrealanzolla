@@ -20,7 +20,7 @@ Electronics Engineering M.Sc. candidate with a strong interest in hands-on hardw
     *Development of an LTE-M tracker for an IoT university exam. Currently a WIP, with the main focus on designing a custom antenna tailored to fit the physical constraints of the board's enclosure.*
 
 *   📡 **[18.2 GHz Microwave Mixer Design](https://github.com/aandrealanzolla/K-band-mixer)**
-     *Design and simulation of an 18.2 GHz mixer, developed as a final project for a High-Frequency Systems course. The work was carried out entirely in Keysight ADS, focusing on schematic-level optimization of key RF parameters such as Conversion Gain and port isolation.
+     *Design and simulation of an 18.2 GHz mixer, developed as a final project for a High-Frequency Systems course. The work was carried out entirely in Keysight ADS, focusing on schematic-level optimization of key RF parameters such as Conversion Gain and port isolation.*
     
 ---
 
